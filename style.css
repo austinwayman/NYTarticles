@@ -1,0 +1,38 @@
+body {
+    margin: auto;
+    width: 900px;
+}
+
+header {
+    background: navy;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+form {
+    padding: 15px;
+}
+
+.container {
+    border: solid lightgray 2px;
+    border-radius: 10px;
+    margin: 10px 0px 10px 0px;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.panel-heading {
+background: lightgrey;
+padding: 10px;
+font-weight: bold;
+}
+
+.container2 {
+    border: solid lightgray 2px;
+    border-radius: 10px;
+    margin: 10px 0px 10px 0px;
+    padding-right: 0;
+    padding-left: 0;
+}

@@ -1,1 +1,3 @@
 # NYTarticles
+
+UNFINISHED article scraper
